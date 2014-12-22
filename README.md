@@ -32,9 +32,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Outlandish proverbs, selected by Mr. G.H.1640Approx. 69 KB of XML-encoded text transcribed from 39 1
+
 #####Body#####
-Outlandish proverbs, selected by Mr. G.H.1640Approx. 69 KB of XML-encoded text transcribed from 39 1
+
+1. Outlandish PROVERBS.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
